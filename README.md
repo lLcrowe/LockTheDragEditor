@@ -11,3 +11,6 @@ LockTheDragEditor For ProjectWindow, HierarchyWindow
 
 1. 프로젝트창을 잠금, 해제 기능
 2. 하이어라키창을 잠금, 해제 기능
+
+기타.
+체크하면서 생긴 주석. 탑재
