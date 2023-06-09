@@ -3,7 +3,7 @@ using UnityEditor;
 
 namespace lLCroweTool.QC.EditorOnly
 {
-    //20230609//아짜리님 요구사항 체크후 제작
+    //20230609
     public class LockTheDragEditor : EditorWindow
     {
         public static bool checkHierarchy = false;
