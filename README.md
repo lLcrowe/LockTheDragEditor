@@ -5,7 +5,8 @@ LockTheDragEditor For ProjectWindow, HierarchyWindow
 
 2. ![image](https://github.com/lLcrowe/LockTheDragEditor/assets/44671731/a462d399-272b-45d3-b20c-c70e0275102d)  
 
-//작동영상
+-작동영상-
+
 https://github.com/lLcrowe/LockTheDragEditor/assets/44671731/e96aba23-ffe3-4c3b-a398-bd341a156dd7
 
 1. 프로젝트창을 잠금, 해제 기능
